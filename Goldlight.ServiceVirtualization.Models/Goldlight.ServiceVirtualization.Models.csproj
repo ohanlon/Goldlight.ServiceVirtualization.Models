@@ -10,4 +10,8 @@
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\..\Goldlight.ServiceVirtualization.RulesSupport\Goldlight.ServiceVirtualization.RulesSupport\Goldlight.ServiceVirtualization.RulesSupport.csproj" />
+	</ItemGroup>
+
 </Project>
